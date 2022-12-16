@@ -21,7 +21,7 @@ trees = {
         "file": "ftdna_ytree_extracted_2022-12-10.json" },
     "yfull_mtree": {
         "url": "https://github.com/YFullTeam/MTree/raw/master/mtree/current_mtree.json",
-        "file": "yfull_mtree_1.02.13953_2022-01-01.json" },
+        "file": "yfull_mtree_1.02.18515_2022-12-16.json" },
     "yfull_ytree": {
         "url": "https://github.com/YFullTeam/YTree/raw/master/current_tree.json",
         "file": "yFull_ytree_10.07.0.json" }
