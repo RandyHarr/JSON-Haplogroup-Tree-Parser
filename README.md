@@ -11,7 +11,7 @@ Kits Count too high? 2330, node 9596
 {'tree': 'yfull_mtree_extracted_2024-03-11.json', 'date_ver': '', 'tot_paragrps': 9988, 'tot_nosnps_interior': 0, 'tot_nosnps_leaf': 7, 'tot_onesnp_interior': 7851, 'tot_onesnp_leaf': 12515, 'tot_multisnps_interior': 2139, 'tot_multisnps_leaf': 452, 'tot_all_snps': 30119, 'avg_all_snps': 1.31, 'tot_snp_aliases': 0, 'tot_nodes_with_ids': 32952, 'tot_nodes': 32952, 'tot_nodes_with_no_kits': 32952, 'tot_kits': 0}
 {'tree': 'yfull_ytree_extracted_2024-03-11.json', 'date_ver': '', 'tot_paragrps': 20753, 'tot_nosnps_interior': 32, 'tot_nosnps_leaf': 23, 'tot_onesnp_interior': 4923, 'tot_onesnp_leaf': 3186, 'tot_multisnps_interior': 15810, 'tot_multisnps_leaf': 11194, 'tot_all_snps': 369768, 'avg_all_snps': 10.53, 'tot_snp_aliases': 63444, 'tot_nodes_with_ids': 55920, 'tot_nodes': 55921, 'tot_nodes_with_no_kits': 55921, 'tot_kits': 0}
 ```
-Example output from a v1.1 software tweak (26 Jan 2924):
+Example output from a v1.1 software tweak (26 Jan 2024):
 ```
 Kits Count too high? 2319, node 9596
 {'tree': 'ftdna_mtree_extracted_2024-01-26.json', 'date_ver': '0001-01-01T00:00:00', 'tot_paragrps': 0, 'tot_nosnps_interior': 10, 'tot_nosnps_leaf': 0, 'tot_onesnp_interior': 1339, 'tot_onesnp_leaf': 1389, 'tot_multisnps_interior': 1096, 'tot_multisnps_leaf': 1635, 'tot_all_snps': 13236, 'avg_all_snps': 2.42, 'tot_snp_aliases': 0, 'tot_nodes_with_ids': 5469, 'tot_nodes': 5469, 'tot_nodes_with_no_kits': 3088, 'tot_kits': 115853}
@@ -19,7 +19,7 @@ Kits Count too high? 2319, node 9596
 {'tree': 'yfull_mtree_extracted_2024-01-26.json', 'date_ver': '', 'tot_paragrps': 9988, 'tot_nosnps_interior': 0, 'tot_nosnps_leaf': 7, 'tot_onesnp_interior': 7851, 'tot_onesnp_leaf': 12515, 'tot_multisnps_interior': 2139, 'tot_multisnps_leaf': 452, 'tot_all_snps': 30119, 'avg_all_snps': 1.31, 'tot_snp_aliases': 0, 'tot_nodes_with_ids': 32952, 'tot_nodes': 32952, 'tot_nodes_with_no_kits': 32952, 'tot_kits': 0}
 {'tree': 'yfull_ytree_extracted_2024-01-26.json', 'date_ver': '', 'tot_paragrps': 19156, 'tot_nosnps_interior': 33, 'tot_nosnps_leaf': 23, 'tot_onesnp_interior': 4775, 'tot_onesnp_leaf': 2990, 'tot_multisnps_interior': 14360, 'tot_multisnps_leaf': 10367, 'tot_all_snps': 336172, 'avg_all_snps': 10.35, 'tot_snp_aliases': 61242, 'tot_nodes_with_ids': 51703, 'tot_nodes': 51704, 'tot_nodes_with_no_kits': 51704, 'tot_kits': 0}
 ```
-Here is the first example output from the initial code (10 Dec 2022):
+Here is the first example output from the initial code (18 Dec 2022):
 ```
 Kits Count too high? 2223, node 9596
 {'tree': 'ftdna_mtree_extracted_2022-12-10.json', 'date_ver': '0001-01-01T00:00:00', 'tot_para': 0, 'tot_empty_interior': 10, 'tot_empty_leaf': 0, 'tot_one_interior': 1339, 'tot_one_leaf': 1389, 'tot_multi_interior': 1096, 'tot_multi_leaf': 1635, 'tot_all_snps': 13236, 'avg_all_snps': 2.42, 'tot_snp_aliases': 0, 'tot_nodes_with_ids': 5469, 'tot_nodes': 5469, 'tot_nodes_with_no_kits': 3097, 'tot_kits': 109801}
