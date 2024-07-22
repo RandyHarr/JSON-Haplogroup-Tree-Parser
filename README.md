@@ -1,6 +1,8 @@
 # JSON-Haplogroup-Tree-Parser
 A quickly created python utility to parse the phylogenetic tree of haplogroups from FTDNA and yFull
 
+TODO: Add processing for dnachron Y database. See https://github.com/dnachron/dnachronYdb-putils
+
 Simply run "python json_tree_parser.py", find the downloaded trees in the current directory and stats results printed to the terminal.
 
 Here is an example run output (11 March 2024) with the v12.0 release at yFull:
